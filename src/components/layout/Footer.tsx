@@ -102,7 +102,7 @@ const Footer: NextPage = () => {
               </svg>
             </Link>
             <Link
-              href="https://x.com/promisead"
+              href="https://x.com/Promisedukeac"
               className="hover:text-primary transition-colors"
               aria-label="Twitter"
             >
