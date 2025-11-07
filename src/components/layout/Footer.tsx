@@ -102,7 +102,7 @@ const Footer: NextPage = () => {
               </svg>
             </Link>
             <Link
-              href="https://x.com/codabytez"
+              href="https://x.com/promisead"
               className="hover:text-primary transition-colors"
               aria-label="Twitter"
             >
@@ -116,7 +116,7 @@ const Footer: NextPage = () => {
               </svg>
             </Link>
             <Link
-              href="https://instagram.com/codabytez"
+              href="https://instagram.com/promisedukeac"
               className="hover:text-primary transition-colors"
               aria-label="Instagram"
             >
@@ -144,7 +144,7 @@ const Footer: NextPage = () => {
           {/* Social Links - Mobile Only */}
           <div className="flex items-center justify-center gap-4 md:hidden">
             <Link
-              href="https://facebook.com/qravit"
+              href="https://facebook.com/promisedukeac"
               className="hover:text-primary transition-colors"
               aria-label="Facebook"
             >
@@ -158,7 +158,7 @@ const Footer: NextPage = () => {
               </svg>
             </Link>
             <Link
-              href="https://x.com/codabytez"
+              href="https://x.com/Promisedukeac"
               className="hover:text-primary transition-colors"
               aria-label="Twitter"
             >
@@ -172,7 +172,7 @@ const Footer: NextPage = () => {
               </svg>
             </Link>
             <Link
-              href="https://instagram.com/codabytez"
+              href="https://instagram.com/promisedukeac"
               className="hover:text-primary transition-colors"
               aria-label="Instagram"
             >
