@@ -44,7 +44,7 @@ export function OrderConfirmationEmail({
         <Container style={container}>
           {/* Header */}
           <Section style={header}>
-            <Heading style={logo}>audiophile</Heading>
+            <Heading style={logo}>Audiophile</Heading>
           </Section>
 
           {/* Success Message */}
