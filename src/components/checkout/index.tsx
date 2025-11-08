@@ -84,7 +84,7 @@ const Checkout: NextPage = () => {
             : undefined,
       });
 
-      // Send the confirmation email
+      // Send the confirmation email 
       try {
         const res = await fetch("/api/send-email", {
           method: "POST",
@@ -115,6 +115,11 @@ const Checkout: NextPage = () => {
           description: "Failed to send confirmation email"
         });
       }
+
+      // Show success toast
+      toast.success("Order placed successfully", {
+        description: `Order #${result?.orderId ?? ""} placed successfully.`,
+      });
 
       // Show confirmation modal
       setShowConfirmation(true);
